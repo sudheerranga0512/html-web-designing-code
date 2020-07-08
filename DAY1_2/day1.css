@@ -1,0 +1,102 @@
+.imagecontainer{
+    background-image : url('Group 8484.png');
+    border-color: white; 
+    border-width: none;
+    border-style:solid; 
+    background-repeat:no-repeat;  
+    background-size: cover;
+}  
+body{
+    margin :auto;
+}
+#logo{   
+    text-align:center; 
+    color:red;
+    font-size:100px;   
+    background-color: white;
+    height:150px;
+    width:150px; 
+    border-radius: 80%;  
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 30px;
+
+}  
+#heading{ 
+    font-style: bold;
+    text-align :center; 
+    color:white;  
+    height:250px;
+    width:1000px; 
+    font-size:36px;
+    margin:auto;  
+} 
+.locationSelector{ 
+    margin-top:-180px;  
+    margin-bottom:60px;
+    text-align:center; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }  
+
+#locationDropDown{
+    width:250px;
+    height:50px;  
+    margin-left:-10px;
+   }  
+   .searchbox{  
+       background: url("https://img.icons8.com/material-rounded/24/000000/search.png") center left no-repeat ; 
+    text-align:left; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:bold; 
+    color:black;
+    width:400px;
+    height:50px;  
+    background-color: white;  
+    margin-bottom: 30px;  
+    border:none;
+    border-width: 10px;
+    border-color: red;
+}  
+.quicksearch{
+margin-top:10px;
+margin-left:80px; } 
+.quicksearchheading{
+    color:#192f60;
+    font-size:30px;
+    font-style:bold;
+} 
+.quicksearchsubheading{
+    color:gray;
+    letter-spacing: normal;
+} 
+.tileContainer{ 
+    box-shadow: 0 3px 6px;
+    margin-right:30px;
+    margin-bottom:30px; 
+    margin-top:30px;
+    margin-left:30px;
+    width:400px; 
+    display: inline-block;  
+    
+} 
+.tileComponent{
+    background-color:white;
+    height:160px;
+    width:400px; 
+    float:left; 
+} 
+.heading11{
+    text-align: left;
+    color:#192f60;
+    font-size:20px; 
+    font-weight: bold; 
+    margin-top:-140px; 
+    margin-left: 190px;
+} 
+.subheading11{
+    color:gray;
+    font-size:20px;
+    margin-left:190px; 
+} 
+
+    

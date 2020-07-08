@@ -1,0 +1,102 @@
+body{
+    background-color: whitesmoke;
+}
+.upperpart{ 
+    position: center;
+ background-color : red;  
+ border-color: red;  
+ border-style: solid; 
+ height: 60px;
+} 
+.create{
+    margin-top: 20px; 
+}  
+.create:hover{
+    background-color:green;
+}
+.login:hover{
+    color:black;
+}
+.logo{    
+    position: center;  
+    text-align: center; 
+    margin-top: 10px;
+    margin-left: 60px;  
+    background-color: white; 
+    height: 40px;
+    width: 40px;
+    text-align: center;     
+    color:red;  
+    font-size:30px;
+    border-radius:100%; 
+   position:absolute;
+} 
+.heading{
+    color:#192f60; 
+    margin-left: 80px; 
+    margin-top:20px;
+    font-size:25px;
+    font-style:bold;
+
+} 
+.filter{  
+    box-shadow: 0 3px 6px; 
+    background-color: white; 
+    height: 600px;
+    width: 220px; 
+    margin-left: 113px; 
+    margin-top: 30px; 
+    margin-right: 993px; 
+    color:#192f60;
+}  
+.cuisine{
+    color: #8c96ab;
+    font-size: 15px;
+} 
+input.checkmark{
+    height: 10px;
+    width: 10px; 
+    margin-left: 20px;
+}  
+
+.tileContainer{ 
+    box-shadow: 0 3px 6px; 
+    margin-right:30px;
+    margin-bottom:30px; 
+    margin-top:-610px;
+    margin-left:500px; 
+    height: 260px;
+    width:794px; 
+}    
+
+.shopname{
+    margin-top:-130px;
+    margin-left:210px;
+} 
+img{ 
+    height: 140px; 
+    width:160px;
+    border-radius: 20px;  
+    margin-top: 20px; 
+    
+} 
+hr{
+    margin-top: 80px;
+}
+.tilecomponent{  
+    border-color: rgb(56, 141, 137); 
+    margin-top: 20px; 
+    margin-left: 20px;  
+    height: 160px;
+    width:160px;
+    border-radius: 50%;
+} 
+.tileContainer1{ 
+    box-shadow: 0 3px 6px; 
+    margin-right:30px;
+    margin-bottom:30px; 
+    margin-top:50px;
+    margin-left:500px; 
+    height: 260px;
+    width:794px; 
+}   
